@@ -19,7 +19,8 @@
 
 ###
 
-<h1 align="center"> "background-color:DodgerBlue;" Hello i'm Aungkanr Sakunbundi </h1>
+<h1 align="center"> i'm Aungkanr Sakunbundi </h1>
+<h1 style="background-color:DodgerBlue;"> i'm Aungkanr Sakunbundi </h1>
 
 ###
 
