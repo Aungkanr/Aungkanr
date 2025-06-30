@@ -20,13 +20,12 @@
 ###
 
 <h1 align="center"> i'm Aungkanr Sakunbundi </h1>
-###
 
 <h3 align="left"> About Me </h3>
 
 ###
 
-<p align="left"> I am from Thailand <br><br>- 🔭 I have experience in networking, connecting various IoT devices together. <br>- 📚 I'm currently learning ...<br>- ⚡ In my free time In my free time, I like to listen to music, play sports, and listen to broadcasts. </p>
+<p align="left"> I am from Thailand <br><br>- 🔭 I have experience in networking, connecting various IoT devices together. <br> <br>- ⚡ In my free time In my free time, I like to listen to music, play sports, and listen to broadcasts. </p>
 
 ###
 
